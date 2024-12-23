@@ -1,5 +1,4 @@
 import json
-import os
 
 my_file = "name.json"
 
